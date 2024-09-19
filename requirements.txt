@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+aiogram
+python-dotenv
+bcrypt
+PyJWT
+loguru
